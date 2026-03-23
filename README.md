@@ -3,7 +3,11 @@
 Statfield est une plateforme d'analyse de données football que j'ai construite de zéro concernant la saison 2025-2026. L'idée de départ était simple : aller au-delà des statistiques de surface et comprendre le profil réel d'un joueur à travers ses données de jeu.
 
 Le projet couvre 14 championnats européens et environ 9 000 joueurs. Plusieurs étapes ont été réalisées sur ce projet : collecte des données, traitement, machine learning, API et interface web.
+<p align="center">
+  <img src="menu.png" width="350" >
+</p>
 
+Pour le moment, il s'agit d'une première version fonctionnelle mais certains points ne sont pas encore opérationnels et des nouveautés arriveront.
 
 ## Contexte et motivation
 
