@@ -1,0 +1,4 @@
+* linguist-detectable=true
+* linguist-language=Python
+
+*.png linguist-vendored
