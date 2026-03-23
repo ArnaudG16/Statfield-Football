@@ -1,4 +1,4 @@
-* linguist-detectable=true
-* linguist-language=Python
+README.md linguist-detectable=true
+README.md linguist-language=Python
 
 *.png linguist-vendored
